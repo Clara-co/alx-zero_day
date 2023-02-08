@@ -1,1 +1,1 @@
-My first readme
+Getter better at Coding
